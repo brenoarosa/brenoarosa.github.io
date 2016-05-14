@@ -1,7 +1,16 @@
 body {
-font-size:16px;
-line-height:1.5;
-color:#ddd;
--webkit-text-size-adjust:100%;
-background:#222;
+    font-size:16px;
+    line-height:1.5;
+    color:#ddd;
+    background:#222;
+}
+
+.header {
+    border-bottom: 1px solid #666;
+    padding: 15px 0;
+}
+
+.footer {
+    border-top: 1px solid #666;
+    padding: 15px 0;
 }
